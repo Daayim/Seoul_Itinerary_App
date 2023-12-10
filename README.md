@@ -1,4 +1,4 @@
-# city_explorer_app
+# city explorer
 
 A small app full of Itenerary of things to do in Seoul, South Korea
 
